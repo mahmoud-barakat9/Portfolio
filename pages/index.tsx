@@ -92,13 +92,15 @@ export default function Home() {
         </section>
         <section>
           <div>
-            <h3 className="text-3xl py-1 mt-5 dark:text-white">Services I offer</h3>
+            <h3 className="text-3xl py-1 mt-5 dark:text-white">
+              Services I offer
+            </h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              i offer beautiful{" "}
+              I offer beautiful{" "}
               <span className="text-teal-500">Photography</span> shoot for
-              Building or portrait or graduation & wedding party and i do
-              creative <span className="text-teal-500">promo video </span>
-              and i make professional{" "}
+              Building or Portrait or Graduation & Wedding party and I do
+              creative <span className="text-teal-500">Promo video </span>
+              and I make professional{" "}
               <span className="text-teal-500">INTERIOR</span> &{" "}
               <span className="text-teal-500">EXTERIOR</span> Design.
             </p>
@@ -114,7 +116,7 @@ export default function Home() {
               />
               <h3 className="text-lg font-medium pt-8 pb-2">Photographer</h3>
               <p className="py-2">
-                make beautiful shoots for Building , Portrait , Graduation ,
+                Make beautiful shoots for Building , Portrait , Graduation ,
                 Wedding , Photojournalism , Sports Events.
               </p>
               <h4 className="py-4 text-teal-600">Photogrpher Tools I Use</h4>
@@ -132,8 +134,8 @@ export default function Home() {
               />
               <h3 className="text-lg font-medium pt-8 pb-2 ">Promo Maker</h3>
               <p className="py-2">
-                making promotional videos for your product , industry , brand
-                ,events.
+                Making Promotional videos for your Product , Industry , Brand
+                ,Events.
               </p>
               <h4 className="py-4 text-teal-600">Promo Tools I Use</h4>
               <p className="text-gray-800 py-1">premiere pro</p>
@@ -152,9 +154,9 @@ export default function Home() {
                 Interior Design
               </h3>
               <p className="py-2">
-                make indoor spaces functional, safe, and beautiful by
-                determining space requirements and selecting essential and
-                decorative items, such as colors, lighting, and materials.
+                Make indoor spaces Functional, Safe, and Beautiful by
+                Determining space requirements and Selecting essential and
+                Decorative items, such as colors, lighting, and materials.
               </p>
               <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
               <p className="text-gray-800 py-1">3ds Max</p>
@@ -171,9 +173,9 @@ export default function Home() {
                 Exterior Design
               </h3>
               <p className="py-2">
-                do both physical structures as well as personal and artistic
-                designs such as paint color, roof shape and material, decks,
-                patios, gardens, and more.
+                Do both physical structures as well as Personal and Artistic
+                designs such as Paint color, Roof shape and Material, Decks,
+                Patios, Gardens, and more.
               </p>
               <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
               <p className="text-gray-800 py-1">3ds Max</p>
