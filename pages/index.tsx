@@ -47,7 +47,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/logobalck.png" />
       </Head>
-      <main className=" bg-white px-10 md:px-20 lg:px-40 dark:bg-gray-900">
+      <main className=" bg-white px-5 md:px-20 lg:px-40 dark:bg-gray-900">
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between dark:text-white">
             {/* <Image src={logo} alt="logo" /> */}
